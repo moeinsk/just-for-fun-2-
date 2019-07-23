@@ -1,4 +1,4 @@
-#writed by moein
+#writed by mpspy
 print("Enter Number:")
 N = int(input())
 
